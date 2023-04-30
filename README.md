@@ -14,6 +14,7 @@ This firmware was developed in the MPLAB IDE, using MCC(MPLAB Code Configurator)
 
 4. Memory: all the variables mentioned above, must be saved in an external memory chip. When the user reset the board for some reason, all variables must remain the same.
 
+## Finit State Machine (FSM)
 
 To match these requirements, it was made a MENU, so the user can select what parameter that he want to change. This menu is controlled by a Finit State Machine(FSM), as you can see below: 
 
