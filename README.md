@@ -2,7 +2,7 @@
 
 In this project, the group takes a PCB from another group, and we are responsible for place all the components on the board, solder everything and fix possible errors. After all of it, we have to build a firmware to validate the correct operation of the board. Despite of participate in all steps of the project, I was especifically designated to make the **Validation Firmware**.
 
-This firmware was developed using the MCC(MPLAB Code Configurator), to help manage the pins of the microcontroller and to generate some codes, such as: I2C and UART libraries. Also, the project was made with the support of teacher Rodrigo Maximiniano. 
+This firmware was developed in the MPLAB IDE, using MCC(MPLAB Code Configurator), to help manage the pins of the microcontroller and to generate some codes, such as: I2C and UART libraries. Also, the project was made with the support of teacher Rodrigo Maximiniano. 
 
 ## Requirements
 
