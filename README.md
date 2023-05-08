@@ -21,3 +21,5 @@ To match these requirements, it was made a MENU, so the user can select what par
 ![fsm](https://user-images.githubusercontent.com/130314603/235377411-003ca25a-0612-4dbf-a3c2-0f0da7dacf81.jpeg)
 
 As you can see, the finit state machine has 8 states. The transition between states is controlled by the keyboard, using 3 keys: enter, right and left. 
+
+**Additional information:** The time state is part of the FSM, but I couldn't implement the timer attatched to this state. I'm still working on it.  
